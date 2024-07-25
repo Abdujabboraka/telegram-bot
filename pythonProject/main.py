@@ -5,7 +5,7 @@ from telebot import types
 from Qoshimcha import valyutalar, barchasi, usd ,rubl
 from telegram.ext import Updater, CommandHandler, MessageHandler, filters, CallbackContext
 
-TOKEN =  "7392763886:AAG31gniXajNZIkYIk06bzJV_6fKygz4br8"
+TOKEN =  "your token here"
 valyuta = telebot.TeleBot(token=TOKEN)
 america = "\U0001F1FA\U0001F1F8"
 uzbekistan = "\U0001F1FA\U0001F1FF"
